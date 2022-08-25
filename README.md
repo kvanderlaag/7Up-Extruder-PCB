@@ -1,6 +1,6 @@
 # 7-Up Amateur Extruder PCB
 
-![Rendering of the front side of a printed circuit board with witty silkscreen text.](/images/SpritePCB-front.png | width=320) ![Rendering of the rear side of a printed circuit board with witty silkscreen text.](/images/SpritePCB-rear.png | width=320)
+![Rendering of the front side of a printed circuit board with witty silkscreen text.](/images/SpritePCB-front.png) ![Rendering of the rear side of a printed circuit board with witty silkscreen text.](/images/SpritePCB-rear.png)
 
 This is a replacement extruder/toolhead PCB for Creality Sprite/Sprite Pro Extruder PCB for Ender-3 series printers -- the Ender-3 S1, Ender-3 S1 Pro, Ender-3 S1 Plus, which all come with a Sprite direct drive extruder out of the box, or an Ender-3, Ender-3 Pro, or Ender-3 V2 that you've retrofitted with the Creality Sprite or Sprite Pro extruder kit.
 
