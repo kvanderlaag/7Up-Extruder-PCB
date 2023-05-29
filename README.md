@@ -9,7 +9,7 @@ While fumbling around behind my toolhead with a wrench to adjust the eccentric n
 Of note: If you e-mail sales@creality3dofficial.com and request a replacement for this part, they can sell you one! It cost $15 USD shipped. However, while I was waiting to hear back from them, I looked at this PCB and thought, "hell, I could just make one of these."
 
 The connectors on the Creality PCB are: 
-- a 2.0mm-pitch, 24-position IDC header, right angle, with locking tabs and eject levers -- they need to be long enough to reach the top of the IDC connector -- for the flat flexible ribbon cable that connects to the printer
+- a 2.0mm-pitch, 24-position IDC header, right angle, with locking tabs and eject levers -- they need to be long enough to reach the top of the IDC connector -- for the flat flexible ribbon cable that connects to the printer; ryanpie86 has correctly pointed out that [this connector](https://www.lcsc.com/product-detail/IDC-Connectors_Ckmtw-Shenzhen-Cankemeng-B-3102R24P-A000_C383593.html) on LCSC is a perfect fit, but watch out for LCSC's shipping. It's helpful if you can place an order for a lot of crap together, and you will pay customs fees on it.
 - three JST ZH (1.5mm pitch) surface-mount connectors, 2-position, for the thermistor, hotend fan, and part cooling fan
 - one JST ZH (1.5mm pitch) surface-mount connector, 4-position, for the extruder motor
 - one JST ZH (1.5mm pitch) surface-mount connector, 5-position, for the (optional) CRtouch/BLtouch automatic bed levelling sensor
